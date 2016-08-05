@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Upload to server (secure)",
+        "command": "mcide:upload_secure"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "McIDE",
+          "submenu": [
+            {
+              "label": "Upload to server (secure)",
+              "command": "mcide:upload_secure"
+            },
+            {
+              "label": "Upload to server (insecure)",
+              "command": "mcide:upload_insecure"
+            },
+            {
+              "label": "Set index file to current File",
+              "command": "mcide:set_index_file"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

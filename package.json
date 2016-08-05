@@ -12,7 +12,7 @@
       "mcide:set_index_file"
     ]
   },
-  "repository": "https://github.com/atom/mcide",
+  "repository": "https://github.com/simonmeusel/mcide-for-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

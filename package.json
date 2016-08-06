@@ -4,6 +4,7 @@
   "version": "0.0.3",
   "description": "McIDE client for Atom",
   "keywords": [
+    "minecraft", "commands", "command-block", "block", "php", "bukkit", "spigot"
   ],
   "activationCommands": {
     "atom-workspace": [
@@ -13,7 +14,13 @@
       "mcide:show_preview"
     ]
   },
-  "repository": "https://github.com/simonmeusel/mcide-for-atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonmeusel/mcide-for-atom"
+  },
+  "bugs": {
+    "url": "https://github.com/simonmeusel/mcide-for-atom/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -25,6 +25,10 @@
             {
               "label": "Set index file to current File",
               "command": "mcide:set_index_file"
+            },
+            {
+              "label": "Show preview of commands",
+              "command": "mcide:show_preview"
             }
           ]
         }

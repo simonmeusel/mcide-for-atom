@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-u": "mcide:upload_secure",
-    "ctrl-alt-i": "mcide:upload_insecure"
+    "ctrl-alt-i": "mcide:upload_insecure",
+    "ctrl-alt-z": "mcide:show_preview"
   }
 }

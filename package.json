@@ -9,7 +9,8 @@
     "atom-workspace": [
       "mcide:upload_secure",
       "mcide:upload_insecure",
-      "mcide:set_index_file"
+      "mcide:set_index_file",
+      "mcide:show_preview"
     ]
   },
   "repository": "https://github.com/simonmeusel/mcide-for-atom",

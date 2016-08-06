@@ -6,3 +6,7 @@
 * Changed sockets to net and tls module
 * Add keymaps
 * Updated README.md
+
+## 0.0.3
+* Added preview feature
+* Bug fixes

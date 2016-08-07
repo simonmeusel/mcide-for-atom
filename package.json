@@ -11,7 +11,8 @@
       "mcide:upload_secure",
       "mcide:upload_insecure",
       "mcide:set_index_file",
-      "mcide:show_preview"
+      "mcide:show_preview",
+      "mcide:generate_ooc"
     ]
   },
   "repository": {

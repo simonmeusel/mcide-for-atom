@@ -29,6 +29,10 @@
             {
               "label": "Show preview of commands",
               "command": "mcide:show_preview"
+            },
+            {
+              "label": "Generate only one command",
+              "command": "mcide:generate_ooc"
             }
           ]
         }

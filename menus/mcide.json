@@ -31,7 +31,7 @@
               "command": "mcide:show_preview"
             },
             {
-              "label": "Generate only one command",
+              "label": "Generate and copy only one command",
               "command": "mcide:generate_ooc"
             }
           ]

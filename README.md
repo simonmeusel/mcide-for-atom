@@ -1,6 +1,6 @@
 # McIDE package for atom
 
-[![Build Status](https://travis-ci.org/atom/wrap-guide.svg?branch=master)](https://travis-ci.org/atom/wrap-guide)
+[![Build Status](https://travis-ci.org/simonmeusel/mcide-for-atom.svg?branch=master)](https://travis-ci.org/simonmeusel/mcide-for-atom) [![Dependency Status](https://david-dm.org/simonmeusel/mcide-for-atom.svg)](https://david-dm.org/simonmeusel/mcide-for-atom)
 
 Develop Minecraft commands and send them to your Bukkit/Spigot server.
 

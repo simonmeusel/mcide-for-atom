@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/simonmeusel/mcide-for-atom.png?label=ready&title=Ready)](https://waffle.io/simonmeusel/mcide-for-atom)
 # McIDE package for atom
 
 [![Build Status](https://travis-ci.org/simonmeusel/mcide-for-atom.svg?branch=master)](https://travis-ci.org/simonmeusel/mcide-for-atom) [![Dependency Status](https://david-dm.org/simonmeusel/mcide-for-atom.svg)](https://david-dm.org/simonmeusel/mcide-for-atom)

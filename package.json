@@ -1,7 +1,7 @@
 {
   "name": "mcide",
   "main": "./lib/mcide",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "McIDE client for Atom",
   "keywords": [
     "minecraft", "commands", "command-block", "block", "php", "bukkit", "spigot"

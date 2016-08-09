@@ -11,5 +11,5 @@
 * Added preview feature
 * Bug fixes
 
-## 0.1.1
+## 0.1.3
 * Add only one command generator

@@ -10,3 +10,6 @@
 ## 0.0.3
 * Added preview feature
 * Bug fixes
+
+## 0.1.1
+* Add only one command generator

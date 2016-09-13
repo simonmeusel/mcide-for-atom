@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/simonmeusel/mcide-for-atom.svg?branch=master)](https://travis-ci.org/simonmeusel/mcide-for-atom) [![Dependency Status](https://david-dm.org/simonmeusel/mcide-for-atom.svg)](https://david-dm.org/simonmeusel/mcide-for-atom) [![Website](https://img.shields.io/badge/website-simonmeusel.github.io-lightgrey.svg)](https://simonmeusel.github.io/mcide/)
 
-Develop Minecraft commands and send them to your Bukkit/Spigot server.
+⚒Develop Minecraft commands and send them to your Bukkit/Spigot server.
 
 ## Installation
 

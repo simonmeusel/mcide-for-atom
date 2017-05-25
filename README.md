@@ -1,3 +1,6 @@
+## Outdated:
+This project is no longer supported since minecraft added similar functionality in vallia. See minecraft 1.12 functions.
+
 # McIDE package for atom
 
 [![Build Status](https://travis-ci.org/simonmeusel/mcide-for-atom.svg?branch=master)](https://travis-ci.org/simonmeusel/mcide-for-atom) [![Dependency Status](https://david-dm.org/simonmeusel/mcide-for-atom.svg)](https://david-dm.org/simonmeusel/mcide-for-atom) [![Website](https://img.shields.io/badge/website-simonmeusel.github.io-lightgrey.svg)](https://simonmeusel.github.io/mcide/)
